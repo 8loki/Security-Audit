@@ -1,4 +1,4 @@
-# Security-Audit
+# Security-Audit-Practice
 IT Security Recommendations 
 
 ## Botium Toys: Scope, Goals, and Risk Assessment Report
